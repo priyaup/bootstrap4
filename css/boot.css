@@ -1,0 +1,18 @@
+.navbar-brand img{
+	width: 15%;
+	height: 15%;
+	padding: 10px;
+}
+.col-lg-4{
+	color: white;
+	font-size: 20px;
+}
+.col-lg-8{
+	font-size: 17px;
+}
+.album{
+	height: auto;
+}
+.footer{
+	height: 130px;
+}
